@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-node",
+  "version": "1.0.0",
+  "description": "First api RESTfull with node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaroRago/api-REST-node.git"
+  },
+  "author": "Alvaro Rago",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaroRago/api-REST-node/issues"
+  },
+  "homepage": "https://github.com/alvaroRago/api-REST-node#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.5"
+  }
+}
